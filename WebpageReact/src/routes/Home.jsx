@@ -5,6 +5,7 @@ import React from "react";
 
 function Home () {
   // displays some images and some text
+  
   return (
     <>
       <h3>CSCI 4470: Open Source Software</h3>

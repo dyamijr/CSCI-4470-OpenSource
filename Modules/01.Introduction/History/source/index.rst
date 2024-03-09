@@ -59,7 +59,7 @@ Open Source Issues
 Why Open Source?
 ----------------
 
-.. rst-class:: build
+.. class:: build
 
 - Fun
 
@@ -78,7 +78,7 @@ Why Open Source?
 
 .. nextslide::
 
-.. rst-class:: build
+.. class:: build
 
 - Altruism 
   – serve the planet – If the world improves, you improve
@@ -95,7 +95,7 @@ Why Open Source?
 
 .. nextslide::
 
-.. rst-class:: build
+.. class:: build
 
 - Open Medicine
   
@@ -112,7 +112,7 @@ Why Open Source?
 Why Not Open Source?
 --------------------
 
-.. rst-class:: build
+.. class:: build
 
 - Intellectual property concerns
 - Chaotic development environment
@@ -128,7 +128,7 @@ Why Not Open Source?
 
 .. nextslide::
 
-.. rst-class:: build
+.. class:: build
 
 - Benefits are a function of community size
 
@@ -153,7 +153,7 @@ The Cathedral and the Bazaar
 
 .. nextslide::
 
-.. rst-class:: build
+.. class:: build
 
 - Every Good Work of Software starts by scratching a developer's itch. - Most students projects tend to be on games!
 - Good Programmers know what to write; Great ones know what to rewrite and reuse!
@@ -161,7 +161,7 @@ The Cathedral and the Bazaar
 
 .. nextslide::
 
-.. rst-class:: build
+.. class:: build
 
 - To solve an interesting problem, start by finding a problem that interests you.
 - If you have the right attitude, interesting problems will find you (be part of a community)
@@ -171,7 +171,7 @@ The Cathedral and the Bazaar
 
 .. nextslide::
 
-.. rst-class:: build
+.. class:: build
 
 - Given a large enough beta-tester and co-developer base, almost every problem will be characterized quickly and the fix will be obvious to someone
 - Smart data structures and dumb code works a lot better than the other way around.
@@ -179,7 +179,7 @@ The Cathedral and the Bazaar
 
 .. nextslide::
 
-.. rst-class:: build
+.. class:: build
 
 - Any tool should be useful in the expected way, but a truly great tool lends itself to uses you never expected.
 - When your language is nowhere near Turing-complete, `syntactic sugar <https://en.wikipedia.org/wiki/Syntactic_sugar>`_ can be your friend.
@@ -189,7 +189,7 @@ Software Management Functions
 
 Software Management has five functions.
 
-.. rst-class:: build
+.. class:: build
 
 1. Define goals and keep every one pointed in the same direction.
 #. To Monitor and make sure critical details do not get skipped.
@@ -203,7 +203,7 @@ Getting Started
 Establishing An Open Source Project
 -----------------------------------
 
-.. rst-class:: build
+.. class:: build
 
 - Create a clear vision (requirements doc) – Technical domain, Software Stack/Tools
 - Involve team oriented people (big egos are big problems)
@@ -217,7 +217,7 @@ Establishing An Open Source Project
 
 .. nextslide::
 
-.. rst-class:: build
+.. class:: build
 
 - Avoid Pitfalls 
   

@@ -21,5 +21,6 @@ const htmlImport = {
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  plugins: [react(), htmlImport]
+  plugins: [react(), htmlImport],
+  assetsInclude: ['**/*.md']
 })

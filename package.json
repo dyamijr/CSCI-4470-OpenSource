@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "directory-tree": "^3.5.1",
+    "list-files": "^1.1.4",
+    "list-react-files": "^0.2.0",
+    "react-router": "^6.22.1",
+    "react-router-dom": "^6.22.1"
+  }
+}

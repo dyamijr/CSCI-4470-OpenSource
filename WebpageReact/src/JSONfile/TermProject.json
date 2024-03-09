@@ -1,22 +1,22 @@
 [
     {
         "title": "Project Week 1",
-        "link": "https://github.com/rcos/CSCI-4470-OpenSource/blob/master/Assignments/Term%20Project/Project%20Week%201.md"
+        "link": "/assignment/project/week1"
     },
     {
         "title": "Project Proposal Template",
-        "link": "https://github.com/rcos/CSCI-4470-OpenSource/blob/master/Assignments/Term%20Project/ProjectProposalTemplate.md"
+        "link": "/assignment/project/proposal"
     },
     {
         "title": "Interim Report",
-        "link": "https://github.com/rcos/CSCI-4470-OpenSource/blob/master/Assignments/Term%20Project/Interim%20Report.md"
+        "link": "/assignment/project/interm"
     },
     {
         "title": "Final Report",
-        "link": "https://github.com/rcos/CSCI-4470-OpenSource/blob/master/Assignments/Term%20Project/Final%20Report.md"
+        "link": "/assignment/project/final"
     },
     {
         "title": "Grading Rubric",
-        "link": "https://github.com/rcos/CSCI-4470-OpenSource/blob/master/Assignments/Analysis%20Homework/rubric.pdf"
+        "link": "/assignment/project/rubric"
     }
 ]

@@ -3,8 +3,10 @@ import '../styles/ModuleStyle.css';
 import moduleData from '../JSONfile/ModulesData.json';
 import React from 'react';
 import Collapsible from 'react-collapsible';
+import directoryTree from 'directory-tree';
 
-function Modules () {
+
+function Modules () {    
     return (
     <>
     <h3>Course Modules </h3>
