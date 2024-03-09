@@ -1,21 +1,10 @@
 import React, { useEffect, useState } from "react";
-import ReactMarkdown from 'react-markdown';
-import lab from "../../../../../Assignments/Analysis Homework/Analysis Homework.md"
+import pdf from "../../../../../Assignments/Analysis Homework/Analysis Homework.pdf"
 
 function AnalysisHw(){
-
-  let [ content, setContent] = useState("");
-
-  useEffect(() => {
-    fetch(lab)
-      .then((res) => res.text())
-      .then((text) => {
-        setContent(text)
-    });
-  }, []);
     return(
         <>
-            <ReactMarkdown>{content}</ReactMarkdown>
+            <iframe src={pdf} width="75%" height="1150px" />
         </>
     )
 }

@@ -45,6 +45,19 @@ import Proposal from './routes/Assignments/Project/Proposal';
 import Interim from './routes/Assignments/Project/Interim';
 import ProRubric from './routes/Assignments/Project/Rubric';
 import Final from './routes/Assignments/Project/Final';
+import Projects2015 from './routes/Resources/Past Projects/2015Projects';
+import ProjectsF2016 from './routes/Resources/Past Projects/F2016Projects';
+import ProjectsS2016 from './routes/Resources/Past Projects/S2016Projects';
+import ProjectsS2017 from './routes/Resources/Past Projects/S2017Projects';
+import ProjectsS2022 from './routes/Resources/Past Projects/S2022Projects';
+import ProjectsSU2022 from './routes/Resources/Past Projects/SU2022Projects';
+import StudyS2017 from './routes/Resources/Study Guides/S2017Study';
+import StudyS2019 from './routes/Resources/Study Guides/S2019Study';
+import Ubuntu from './routes/Resources/How To/Ubuntu';
+import Bash from './routes/Resources/How To/Bash';
+import LargeOpenSource from './routes/Resources/How To/LargeOpenSource';
+import PackageManager from './routes/Resources/How To/PacakageManagers';
+import UbuntuSetup from './routes/Resources/How To/UbuntuSetup';
 
 function App() {
   const paths = {
@@ -90,6 +103,19 @@ function App() {
     "/assignment/project/interm": <Interim />,
     "/assignment/project/final": <Final />,
     "/assignment/project/rubric": <ProRubric />,
+    "/resources/projects/2015": <Projects2015 />,
+    "/resources/projects/f2016": <ProjectsF2016 />,
+    "/resources/projects/s2016": <ProjectsS2016 />,
+    "/resources/projects/s2017": <ProjectsS2017 />,
+    "/resources/projects/s2022": <ProjectsS2022 />,
+    "/resources/projects/su2022": <ProjectsSU2022 />,
+    "/resources/studyguides/s2017": <StudyS2017 />,
+    "/resources/studyguides/s2019": <StudyS2019 />,
+    "/resources/howto/ubuntu": <Ubuntu />,
+    "/resources/howto/bash": <Bash />,
+    "/resources/howto/los": <LargeOpenSource />,
+    "/resources/howto/pm": <PackageManager />,
+    "/resources/howto/ubuntusetup": <UbuntuSetup />,
   }
 
   let [component, setComponent] = useState(<Home />);

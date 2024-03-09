@@ -4,31 +4,27 @@
         "links": [
             {
                 "linkName": "Fall 2015 Projects",
-                "link": "https://github.com/rcos/CSCI-4470-OpenSource/blob/master/Resources/Backups/Fall2015Projects.md"
+                "link": "/resources/projects/2015"
             },
             {
                 "linkName": "Fall 2016 Projects",
-                "link": "https://github.com/rcos/CSCI-4470-OpenSource/blob/master/Resources/Backups/Fall2016Projects.md"
+                "link":"/resources/projects/f2016"
             },
             {
                 "linkName": "Spring 2016 Projects",
-                "link": "https://github.com/rcos/CSCI-4470-OpenSource/blob/master/Resources/Backups/Spring2016Projects.md"
+                "link": "/resources/projects/s2016"
             },
             {
                 "linkName": "Spring 2017 Projects",
-                "link": "https://github.com/rcos/CSCI-4470-OpenSource/blob/master/Resources/Backups/Spring2017Projects.md"
-            },
-            {
-                "linkName": "Summer 2018 Projects",
-                "link": "https://github.com/rcos/CSCI-4470-OpenSource/blob/master/Resources/Backups/Summer2018Projects.md"
+                "link": "/resources/projects/s2017"
             },
             {
                 "linkName": "Spring 2022 Projects",
-                "link": "https://github.com/rcos/CSCI-4470-OpenSource/blob/master/Resources/Spring2022Projects.md"
+                "link": "/resources/projects/s2022"
             },
             {
                 "linkName": "Summer 2022 Projects",
-                "link": "https://github.com/rcos/CSCI-4470-OpenSource/blob/master/Resources/Summer2022Projects.md"
+                "link": "/resources/projects/su2022"
             }
         ]
     },
@@ -37,11 +33,11 @@
         "links": [
             {
                 "linkName": "Spring 2017",
-                "link": "https://github.com/rcos/CSCI-4470-OpenSource/blob/master/Resources/Backups/Spring2017StudyGuide.md"
+                "link": "/resources/studyguides/s2017"
             },
             {
                 "linkName": "Spring 2019",
-                "link": "https://github.com/rcos/CSCI-4470-OpenSource/blob/master/Resources/Backups/Spring2019StudyGuide.md"
+                "link": "/resources/studyguides/s2019"
             }
         ]
     },
@@ -50,23 +46,23 @@
         "links": [
             {
                 "linkName": "Booting Ubuntu",
-                "link": "https://github.com/rcos/CSCI-4470-OpenSource/blob/master/Resources/How-To/BootUbuntu.md"
+                "link": "/resources/howto/ubuntu"
             },
             {
                 "linkName": "Installing Bash on Windows",
-                "link": "https://github.com/rcos/CSCI-4470-OpenSource/blob/master/Resources/How-To/InstallingBashonWindows.pdf"
+                "link": "/resources/howto/bash"
             },
             {
                 "linkName": "Large Open Source Projects",
-                "link": "https://github.com/rcos/CSCI-4470-OpenSource/blob/master/Resources/How-To/LargeOpenSourceProjects.md"
+                "link": "/resources/howto/los"
             },
             {
                 "linkName": "Package Managers",
-                "link": "https://github.com/rcos/CSCI-4470-OpenSource/blob/master/Resources/How-To/PackageManagers.md"
+                "link": "/resources/howto/pm"
             },
             {
                 "linkName": "Setting Up Ubuntu",
-                "link": "https://github.com/rcos/CSCI-4470-OpenSource/blob/master/Resources/How-To/UbuntuSetup.md"
+                "link": "/resources/howto/ubuntusetup"
             }
         ]
     },

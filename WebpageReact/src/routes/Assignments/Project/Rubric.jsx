@@ -1,21 +1,10 @@
 import React, { useEffect, useState } from "react";
-import ReactMarkdown from 'react-markdown';
-import lab from "../../../../../Assignments/Term Project/GradingRubric-for-Projects.md"
+import pdf from "../../../../../Assignments/Term Project/GradingRubric-for-Projects.pdf"
 
 function ProRubric(){
-
-  let [ content, setContent] = useState("");
-
-  useEffect(() => {
-    fetch(lab)
-      .then((res) => res.text())
-      .then((text) => {
-        setContent(text)
-    });
-  }, []);
     return(
         <>
-            <ReactMarkdown>{content}</ReactMarkdown>
+            <iframe src={pdf} width="75%" height="1150px" />
         </>
     )
 }
